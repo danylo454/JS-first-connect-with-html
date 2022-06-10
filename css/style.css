@@ -1,0 +1,25 @@
+.root-main {
+    display: flex;
+    justify-content: center;
+
+}
+
+.root .character_block {
+    margin-bottom: 50px;
+    border: 2mm solid black;
+    padding: 10px;
+    background-color: rgba(211, 220, 50, .6);
+    ;
+}
+
+.root .character_child {
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+
+img {
+    height: 300px;
+    width: 300px;
+}
